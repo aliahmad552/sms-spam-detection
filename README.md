@@ -45,6 +45,12 @@ You can download the dataset from [UCI Repository](https://archive.ics.uci.edu/m
 
 ---
 
+
+## 📊 Model Evaluation
+Accuracy: ~98%
+
+Confusion Matrix, Precision, Recall, and F1-score used for detailed evaluation.
+
 ## 🚀 How to Run
 
 1. **Clone the repository**  
@@ -53,9 +59,4 @@ git clone https://github.com/aliahmad552/SMS-Spam-Detection.git
 cd SMS-Spam-Detection
 
 ---
-
-## 📊 Model Evaluation
-Accuracy: ~98%
-
-Confusion Matrix, Precision, Recall, and F1-score used for detailed evaluation.
 
